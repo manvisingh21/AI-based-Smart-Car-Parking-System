@@ -1,2 +1,2 @@
 # AI-based-Smart-Car-Parking-System
-Developed an AI-based Smart Car Parking System in Python with a user-friendly GUI.
+Innovated an AI-driven Smart Car Parking System using Python, featuring a user-friendly GUI. This groundbreaking solution optimizes parking efficiency by employing artificial intelligence algorithms. Through real-time analysis, it intelligently allocates parking spaces, ensuring a seamless and efficient experience for users, marking a significant advancement in modern parking management.
